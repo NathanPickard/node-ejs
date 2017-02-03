@@ -9,7 +9,9 @@
   "author": "Nathan Pickard <nathan.pickard87@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.5.5",
     "express": "^4.14.1",
+    "express-ejs-layouts": "^2.2.0",
     "nodemon": "^1.11.0"
   }
 }
